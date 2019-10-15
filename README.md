@@ -1,2 +1,2 @@
-# musix
-online music streamer
+# canary
+online music streamer and social media
